@@ -1,4 +1,8 @@
 MetaDataFormat: "yaml"
+# baseURL: "https://www.beyondpolitics.com/"
+baseURL: "http://jonathan.pages.jgilligan.org/beyondpolitics/"
+title: "Beyond Politics"
+copyright: "&copy; 2017 Jonathan Gilligan"
 theme: "hugo-finisterre"
 contentdir: "content"
 layoutdir: "layouts"
@@ -9,14 +13,13 @@ publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
 pygmentsStyle: "zenburn"
-# baseURL: "https://www.beyondpolitics.com/"
-baseURL: "http://jonathan.pages.jgilligan.org/beyondpolitics"
 indexes:
   category: "categories"
   tag: "tags"
-title: "Beyond Politics"
-copyright: "&copy; 2017 Jonathan Gilligan"
-canonifyUrls: false
+taxonomies:
+  - category: "categories"
+  - tag:      "tags"
+canonifyUrls: true
 relativeUrls: true
 enableRobotsTXT: true
 ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$", "Corel Auto-Preserve$"]
@@ -37,7 +40,7 @@ menu:
         Weight: 4
 permalinks:
   post: /post/:year/:month/:day/:slug
-  news: /ness/:year/:month/:day/:slug
+  news: /news/:year/:month/:day/:slug
 blackfriday:
   smartypants: true
   angledQuotes: false
@@ -46,22 +49,45 @@ blackfriday:
   latexDashes: true
   hrefTargetBlank: true
 googleAnalytics: "UA-101117636-1"
-taxonomies:
-  - category: "categories"
-  - tag:      "tags"
 params:
+  web_designer_name: "Jonathan Gilligan"
+  web_design_year: 2017
   typekitCode: "cwm0smq"
-  mathjax: true
-  mhchem: true
-  post_count: 3
-  news_count: 5
-  news_current_months: 12
-  news_post_count: 5
+  mathjax: false
+  mhchem: false
+  post_count: 1
+  news_count: 2
+  news_current_months: 2
+  news_post_count: 1
+  front_page_img: "170094332.jpg"
+  book_avatar: "book_avatar.jpg"
+  book:
+    title: "Beyond Politics: A Private Governance Approach to Climate Change"
+    short_title: "Beyond Politics"
+    social:
+      twitter:
+        priority: 3
+        icon: "twitter"
+        icon_pack: "fa"
+        link: "https://twitter.com/beyondgridlock"
+        text: "@beyondgridlock"
+        on_site: "Twitter"
+      amazon:
+        priority: 1
+        icon: "amazon"
+        icon_pack: "fa"
+        text: "Amazon"
+        link: "https://www.amazon.com/dp/1316632482"
+      cup:
+        priority: 2
+        icon: "book"
+        icon_pack: "fa"
+        link: "http://www.cambridge.org/us/academic/subjects/politics-international-relations/political-economy/beyond-politics-private-governance-response-climate-change?format=PB#fIFIqQswJ56fKCq0.97"
+        text: "Cambridge University Press"
   authors:
     jonathan:
-      AuthorName: "Jonathan Gilligan"
-      bio_name: "Jonathan Gilligan"
-      bio_twitter: "jg_environ"
+      name: "Jonathan Gilligan"
+      twitter: "jg_environ"
       cv_file: "gilligan_cv.pdf"
       organization: "Vanderbilt University"
       email: "jonathan.gilligan@vanderbilt.edu"
@@ -126,8 +152,7 @@ params:
           text: "jonathan_gilligan"
           on_site: "Skype"
     mike:
-      AuthorName: "Michael Vandenbergh"
-      bio_name: "Michael Vandenbergh"
+      name: "Michael Vandenbergh"
       organization: "Vanderbilt University"
       email: "michael.vandenbergh@vanderbilt.edu"
       address:
