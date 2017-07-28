@@ -1,5 +1,10 @@
 User-agent: *
 
-{{range .Data.Pages}}
-Disallow: {{.RelPermalink}}
+{{- $.Scratch.Set "urls" (slice ) -}}
+{{- range .Data.Pages -}}
+  {{- $.Scratch.Add "urls" .RelPermalink -}}
+{{- end -}}
+{{- $pages := sort ($.Scratch.Get "urls") -}}
+{{ range $pages }}
+Disallow: {{ . }}
 {{end}}
