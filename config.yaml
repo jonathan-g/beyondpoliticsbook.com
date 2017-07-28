@@ -1,6 +1,6 @@
 MetaDataFormat: "yaml"
 # baseURL: "https://www.beyondpolitics.com/"
-baseURL: "http://jonathan.pages.jgilligan.org/beyondpolitics/"
+baseURL: "http://jonathan.pages.jgilligan.org/beyondpoliticsbook/"
 title: "Beyond Politics"
 copyright: "&copy; 2017 Jonathan Gilligan"
 theme: "hugo-finisterre"
