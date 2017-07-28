@@ -29,15 +29,21 @@ menu:
       - Name: "In The News"
         URL: "/news/"
         Weight: 1
+      - Name: "Outline"
+        URL: "/chapter/"
+        Weight: 2
+      - Name: "Endorsements"
+        URL: "/blurb/"
+        weight: 3
       - Name: "Blog"
         URL: "/post/"
-        Weight: 2
+        Weight: 4
       - Name: "Further Reading"
         URL: "/reading/"
-        Weight: 3
+        Weight: 5
       - Name: "About the Authors"
         URL: "/about/"
-        Weight: 4
+        Weight: 6
 permalinks:
   post: /post/:year/:month/:day/:slug
   news: /news/:year/:month/:day/:slug
@@ -64,6 +70,9 @@ params:
   book:
     title: "Beyond Politics: A Private Governance Approach to Climate Change"
     short_title: "Beyond Politics"
+    publisher: "Cambridge University Press"
+    year: "2017"
+    isbn: "9781316632482"
     social:
       twitter:
         priority: 3
