@@ -42,7 +42,7 @@ menu:
         URL: "/reading/"
         Weight: 5
       - Name: "About the Authors"
-        URL: "/about/"
+        URL: "/author/"
         Weight: 6
 permalinks:
   post: /post/:year/:month/:day/:slug
@@ -68,7 +68,7 @@ params:
   front_page_img: "170094332.jpg"
   book_avatar: "book_avatar.jpg"
   book:
-    title: "Beyond Politics: A Private Governance Approach to Climate Change"
+    title: "Beyond Politics: The Private Governance Approach to Climate Change"
     short_title: "Beyond Politics"
     publisher: "Cambridge University Press"
     year: "2017"

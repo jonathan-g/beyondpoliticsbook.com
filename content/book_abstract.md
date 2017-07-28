@@ -4,10 +4,21 @@ author: "Jonathan Gilligan and Michael Vandenbergh"
 date: "2017-07-26"
 kind: "page"
 ---
-# Beyond Politics: A Private Governance Approach to Climate Change
+# Beyond Politics: The Private Governance Approach to Climate Change
 
-With President Trump's announcement to pull the United States out of the Paris Agreement, many other countries around the world---and cities and states within the U.S.---are stepping up their commitments to address climate change.
+Private sector action provides one of the most promising opportunities to reduce 
+the risks of climate change, buying time while governments move slowly or even 
+oppose climate mitigation. 
 
-But one thing is clear: Even if all the remaining participating nations do their part, governments alone can't substantially reduce the risk of catastrophic climate change.
+Starting with the insight that much of the resistance to climate mitigation is 
+grounded in concern about the role of government, this book draws on law, policy, 
+social science and climate science to demonstrate how private initiatives are 
+already bypassing government inaction in the United States and around the globe. 
 
-We've studied the role of the private sector in addressing climate change, and we're convinced that the next stage is going to require more than just political agreement. What is needed is a concerted effort to mobilize private action---not just corporations but also religious and civic organizations, colleges and universities, investors and households---to help narrow the gap that remains after the Paris Agreement.
+It makes a persuasive case that private governance can reduce global carbon 
+emissions by a billion tons per year over the next decade. 
+Combining an examination of the growth of private climate initiatives over the 
+last decade, a theory of why private actors are motivated to reduce emissions, 
+and a review of viable next steps, this book speaks to scholars, business and 
+advocacy group managers, philanthropists, policymakers and anyone interested in 
+climate change.
