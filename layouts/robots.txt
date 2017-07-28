@@ -1,6 +1,6 @@
 User-agent: *
 
-{{- $.Scratch.Set "urls" (slice ) -}}
+{{ $.Scratch.Set "urls" (slice ) -}}
 {{- range .Data.Pages -}}
   {{- $.Scratch.Add "urls" .RelPermalink -}}
 {{- end -}}
