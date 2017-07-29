@@ -6,8 +6,7 @@ authors:
 publisher: "St. Martin's Press"
 pub_year: "2017"
 weight: "2"
-r_cats:
-  - "Climate Policy"
-cat_weight: 3
+r_cat: "Climate Policy"
+r_cat_weight: 3
 date: 2017-07-28T19:47:49-05:00
 ---

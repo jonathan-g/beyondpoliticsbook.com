@@ -5,8 +5,7 @@ authors:
 publisher: "Basic Books"
 pub_year: "2010"
 weight: "6"
-r_cats:
-  - "Climate Policy"
-cat_weight: 3
+r_cat: "Climate Policy"
+r_cat_weight: 3
 date: 2017-07-28T19:48:30-05:00
 ---

@@ -16,11 +16,9 @@ pygmentsStyle: "zenburn"
 indexes:
   category: "categories"
   tag: "tags"
-  r_cat: "r_cats"
 taxonomies:
   - category: "categories"
   - tag:      "tags"
-  - r_cat: "r_cats"
 canonifyUrls: true
 relativeUrls: true
 enableRobotsTXT: true

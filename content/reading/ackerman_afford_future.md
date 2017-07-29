@@ -5,8 +5,7 @@ authors:
 publisher: "Zed Books"
 pub_year: "2012"
 weight: "1"
-r_cats::
-  - "Climate Policy"
-cat_weight: 3
+r_cat: "Climate Policy"
+r_cat_weight: 3
 date: 2017-07-28T19:47:37-05:00
 ---

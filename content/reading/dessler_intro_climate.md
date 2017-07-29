@@ -6,8 +6,7 @@ authors:
 publisher: "Cambridge University Press"
 pub_year: "2016"
 weight: "4"
-r_cats:
-  - "Introductory Textbooks"
-cat_weight: 2
+r_cat: "Introductory Textbooks"
+r_cat_weight: 2
 date: 2017-07-28T19:47:07-05:00
 ---
