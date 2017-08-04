@@ -1,6 +1,6 @@
 ---
 title: "Outline of the book"
-booktitle: "Beyond Politics: The Private Governance Approach to Climate Change"
+booktitle: "Beyond Politics: The Private Governance Response to Climate Change"
 authors:
   - "Michael P. Vandenbergh"
   - "Jonathan M. Gilligan"

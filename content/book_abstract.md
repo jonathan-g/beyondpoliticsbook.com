@@ -4,7 +4,7 @@ author: "Jonathan Gilligan and Michael Vandenbergh"
 date: "2017-07-26"
 kind: "page"
 ---
-# Beyond Politics: The Private Governance Approach to Climate Change
+# Beyond Politics: The Private Governance Response to Climate Change
 
 Private sector action provides one of the most promising opportunities to reduce 
 the risks of climate change, buying time while governments move slowly or even 
