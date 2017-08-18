@@ -4,3 +4,5 @@
 *.Rproj
 .Ruserdata
 /public/
+/static/img/compressed
+Corel Auto-Preserve/
