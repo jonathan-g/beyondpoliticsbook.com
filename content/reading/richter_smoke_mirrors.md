@@ -1,5 +1,5 @@
 ---
-title: "Beyond Smoke and Mirrorw: Climate Change and Energy in the 21st Century"
+title: "Beyond Smoke and Mirrors: Climate Change and Energy in the 21st Century"
 authors:
   - "Burton Richter"
 publisher: "Cambridge University Press"

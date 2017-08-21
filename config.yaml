@@ -65,7 +65,7 @@ params:
   news_count: 2
   news_current_months: 2
   news_post_count: 1
-  front_page_img: "170094332.jpg"
+  front_page_img: "book_cover.jpg"
   book_avatar: "book_avatar.jpg"
   book:
     title: "Beyond Politics: The Private Governance Response to Climate Change"
