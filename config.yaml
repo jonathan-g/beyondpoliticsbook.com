@@ -54,7 +54,7 @@ blackfriday:
   smartDashes: true
   latexDashes: true
   hrefTargetBlank: true
-googleAnalytics: "UA-101117636-1"
+googleAnalytics: "UA-101117636-2"
 params:
   web_designer_name: "Jonathan Gilligan"
   web_design_year: 2017
