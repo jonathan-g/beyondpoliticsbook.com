@@ -75,20 +75,26 @@ params:
     isbn: "9781316632482"
     social:
       twitter:
-        priority: 3
+        priority: 4
         icon: "twitter"
         icon_pack: "fa"
         link: "https://twitter.com/beyondgridlock"
         text: "@beyondgridlock"
         on_site: "Twitter"
+      indiebound:
+        priority 1
+        icon: "info"
+        icon_pack: "fa"
+        text: "IndieBound"
+        link: "http://www.indiebound.org/book/9781316632482"
       amazon:
-        priority: 1
+        priority: 2
         icon: "amazon"
         icon_pack: "fa"
         text: "Amazon"
         link: "https://www.amazon.com/dp/1316632482"
       cup:
-        priority: 2
+        priority: 3
         icon: "book"
         icon_pack: "fa"
         link: "http://www.cambridge.org/us/academic/subjects/politics-international-relations/political-economy/beyond-politics-private-governance-response-climate-change?format=PB#fIFIqQswJ56fKCq0.97"
