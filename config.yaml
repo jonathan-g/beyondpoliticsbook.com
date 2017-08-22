@@ -82,7 +82,7 @@ params:
         text: "@beyondgridlock"
         on_site: "Twitter"
       indiebound:
-        priority 1
+        priority: 1
         icon: "info"
         icon_pack: "fa"
         text: "IndieBound"
