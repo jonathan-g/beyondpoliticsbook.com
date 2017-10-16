@@ -38,12 +38,15 @@ menu:
       - Name: "Blog"
         URL: "/post/"
         Weight: 4
+      - Name: "Actions"
+        URL: "/actions/"
+        Weight: 5
       - Name: "Further Reading"
         URL: "/reading/"
-        Weight: 5
+        Weight: 6
       - Name: "About the Authors"
         URL: "/author/"
-        Weight: 6
+        Weight: 7
 permalinks:
   post: /post/:year/:month/:day/:slug
   news: /news/:year/:month/:day/:slug
