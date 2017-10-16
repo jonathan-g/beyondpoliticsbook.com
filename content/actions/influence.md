@@ -1,7 +1,7 @@
 ---
 title: "Use Your Influence"
 date: "2017-10-15"
-weight: 4
+weight: 5
 ---
 
 What makes our "private governance" approach new and different from other ways
