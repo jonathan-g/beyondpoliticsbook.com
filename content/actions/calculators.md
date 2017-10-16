@@ -25,5 +25,5 @@ at getting you started on identifying opportunities to reduce your emissions.
 If you are interested in learning more about these calculators, you may
 want to look at this paper, which assessed the strengths and weaknesses of
 many calculators: J.P. Padgett _et al._,
-"[A Compparison of Carbon Calculators](http://www.climatebiz.com/sites/default/files/document/EIARVol28Issue2-3pgs106-115.pdf),"
+"[A Comparison of Carbon Calculators](http://www.climatebiz.com/sites/default/files/document/EIARVol28Issue2-3pgs106-115.pdf),"
 (2008).
