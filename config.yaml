@@ -1,5 +1,5 @@
 MetaDataFormat: "yaml"
-baseURL: "http://www.beyondpoliticsbook.com/"
+baseURL: "https://www.beyondpoliticsbook.com/"
 # baseURL: "https://jonathan.pages.jgilligan.org/beyondpoliticsbook/"
 title: "Beyond Politics"
 copyright: "&copy; 2017 Jonathan Gilligan"
