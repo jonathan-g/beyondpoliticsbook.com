@@ -62,6 +62,7 @@ params:
   web_designer_name: "Jonathan Gilligan"
   web_design_year: 2017
   typekitCode: "cwm0smq"
+  fontawesomeCode: "0cecfe2e0e"
   mathjax: false
   mhchem: false
   post_count: 1
