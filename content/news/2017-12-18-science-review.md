@@ -1,5 +1,5 @@
 ---
-title: "Faced with government inaction, private firms emerge as major players in climate mitigation"
+title: "Review in Science Magazine"
 author: David G. Victor
 date: '2017-12-18'
 weight: 1
@@ -32,10 +32,12 @@ keywords:
   - environmental law and policy
   - behavioral wedge
 ---
-In a thoughtful and far-ranging new book, Michael P. Vandenbergh and Jonathan M. Gilligan turn that view upside down. Both from Vanderbilt University—Vandenbergh a lawyer and Gilligan a professor of civil and environmental engineering—the authors help explain why firms from Coca-Cola to UPS are motivated to be leaders in cutting emissions. 
-<!--more-->
-...
+# Faced with government inaction, private firms emerge as major players in climate mitigation
 
-Private governance could change the nature of government itself, suggest Vandenbergh and Gilligan. It could also change how society achieves justice and its lines of accountability. Work like this helps reveal what is possible, even without formal governments doing much or all the work.
+> In a thoughtful and far-ranging new book, Michael P. Vandenbergh and Jonathan M. Gilligan turn that view upside down. Both from Vanderbilt  University—Vandenbergh a lawyer and Gilligan a professor of civil and environmental engineering—the authors help explain why firms from Coca-Cola to UPS are motivated to be leaders in cutting emissions.
+<!--more-->
+> ...
+>
+> Private governance could change the nature of government itself, suggest Vandenbergh and Gilligan. It could also change how society achieves justice and its lines of accountability. Work like this helps reveal what is possible, even without formal governments doing much or all the work.
 
 Read the whole review at <http://blogs.sciencemag.org/books/2017/12/18/beyond-politics/>
