@@ -23,3 +23,7 @@ last decade, a theory of why private actors are motivated to reduce emissions,
 and a review of viable next steps, this book speaks to scholars, business and
 advocacy group managers, philanthropists, policymakers and anyone interested in
 climate change.
+
+## Excerpt
+
+[Read an excerpt from the book...](book_excerpt/index.html)

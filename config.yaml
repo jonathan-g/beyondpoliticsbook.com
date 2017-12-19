@@ -71,6 +71,7 @@ params:
   news_post_count: 1
   front_page_img: "book_cover.jpg"
   book_avatar: "book_avatar.jpg"
+  book_twitter: "beyondgridlock"
   book:
     title: "Beyond Politics: The Private Governance Response to Climate Change"
     short_title: "Beyond Politics"
