@@ -1,7 +1,7 @@
 User-agent: *
 {{ $.Scratch.Set "urls" (slice ) -}}
 {{- range .Data.Pages -}}
-  {{- if (findRE "^/(4[0-9]+|tags|categories)/" .RelPermalink) "ne" nil -}}
+  {{- if (findRE "^/(4[0-9]+)/" .RelPermalink) "ne" nil -}}
     {{- $.Scratch.Add "urls" .RelPermalink -}}
   {{- end -}}
 {{- end -}}
