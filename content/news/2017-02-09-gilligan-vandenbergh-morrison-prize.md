@@ -8,12 +8,8 @@ pub_link: "https://news.vanderbilt.edu/2017/02/09/gilligan-vandenbergh-win-morri
 slug: gilligan-vandenbergh-morrison-prize
 categories:
   - news
-  - Beyond Gridlock
-  - private governance
   - prizes and awards
 tags:
-  - Beyond Gridlock
-  - private governance
   - prizes and awards
 keywords:
   - climate change

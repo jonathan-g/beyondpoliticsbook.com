@@ -8,14 +8,9 @@ pub_link: "https://news.vanderbilt.edu/2017/06/02/expert-private-industry-better
 slug: private-industry-paris-withdrawal
 categories:
   - news
-  - private governance
-  - climate change
   - Paris gap
-  - behavioral wedge
 tags:
-  - private governance
   - Paris gap
-  - Paris agreement
   - green business
 keywords:
   - climate change

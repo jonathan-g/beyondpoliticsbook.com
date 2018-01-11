@@ -10,15 +10,10 @@ banner:
   credit: "Walmart/flickr, CC-BY-SA"
 slug: gilligan-vandenbergh-private-governance
 categories:
-  - private governance
-  - climate change
-  - climate policy
+  - columns
 tags:
-  - Paris agreement
-  - Paris gap
-  - private governance
   - green business
-  - behavioral wedge
+  - columns
 keywords:
   - climate change
   - global warming
