@@ -68,7 +68,7 @@ params:
   post_count: 1
   news_count: 2
   news_current_months: 2
-  news_post_count: 1
+  news_post_count: 2
   front_page_img: "book_cover.jpg"
   book_avatar: "book_avatar.jpg"
   book_twitter: "beyondgridlock"
