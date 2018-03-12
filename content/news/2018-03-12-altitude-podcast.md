@@ -2,6 +2,7 @@
 title: "This Is Altitude Podcast"
 author: "Erin Delawalla and Allyson Sand"
 date: '2018-03-12'
+publishdate: '2018-03-12'
 weight: 1
 publication: "This Is Altitude"
 pub_link: "https://www.thisisaltitude.com/episodes/#block-yui_3_17_2_1_1520217553932_21104"
