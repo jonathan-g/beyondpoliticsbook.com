@@ -2,6 +2,7 @@
 title: "Review in Science Magazine"
 author: David G. Victor
 date: '2017-12-18'
+publishdate: '2017-12-18'
 weight: 1
 publication: "Science Magazine"
 pub_link: "http://blogs.sciencemag.org/books/2017/12/18/beyond-politics/"
