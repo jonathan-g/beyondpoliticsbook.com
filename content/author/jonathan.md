@@ -6,7 +6,7 @@ author:
   titles:
     - "Associate Professor of [Earth & Environmental Sciences](https://www.vanderbilt.edu/ees/)"
     - "Associate Professor of [Civil & Environmental Engineering](https://engineering.vanderbilt.edu/cee)"
-    - "Associte Director for Research at the [Vanderbilt Climate Change Research Network](https://law.vanderbilt.edu/academics/academic-programs/environmental-law/climate-change-network/)"
+    - "Associate Director for Research at the [Vanderbilt Climate Change Research Network](https://law.vanderbilt.edu/academics/academic-programs/environmental-law/climate-change-network/)"
   institution: "[Vanderbilt University](https://www.vanderbilt.edu)"
   email: "jonathan.gilligan@vanderbilt.edu"
   head_shot: "gilligan_head_shot.jpg"
