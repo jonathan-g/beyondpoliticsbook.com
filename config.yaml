@@ -25,35 +25,45 @@ enableRobotsTXT: true
 ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$", "Corel Auto-Preserve$"]
 
 menu:
-  news:
+  main:
       - Name: "In The News"
-        URL: "/news/"
         Weight: 1
+        Identifier: "news_parent"
+      - Name: "In The News"
+        Identifier: "news"
+        URL: "/news/"
+        Weight: 2
+        Parent: "news_parent"
       - Name: "Reviews"
         URL: "/review/"
-        Weight: 2
-      - Name: "Endorsements"
+        Weight: 3
+        Parent: "news_parent"
+      - Name: "Endorse&shy;ments"
         URL: "/blurb/"
-        weight: 3
-      - Name: "Podcasts"
-        URL: "/podcast/"
         weight: 4
       - Name: "Blog"
-        URL: "/post/"
+        Identifier: "blog_parent"
         Weight: 5
-  main:
-      - Name: "Outline"
+      - Name: "Podcasts"
+        URL: "/podcast/"
+        weight: 6
+        Parent: "blog_parent"
+      - Name: "Blog"
+        URL: "/post/"
+        Weight: 7
+        Parent: "blog_parent"
+      - Name: "Out&shy;line"
         URL: "/chapter/"
-        Weight: 1
+        Weight: 8
       - Name: "Actions"
         URL: "/actions/"
-        Weight: 2
+        Weight: 9
       - Name: "Further Reading"
         URL: "/reading/"
-        Weight: 3
-      - Name: "About the Authors"
+        Weight: 10
+      - Name: "About the Au&shy;thors"
         URL: "/author/"
-        Weight: 4
+        Weight: 11
 permalinks:
   post: /post/:year/:month/:day/:slug
   news: /news/:year/:month/:day/:slug
