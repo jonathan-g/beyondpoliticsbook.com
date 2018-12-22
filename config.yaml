@@ -25,28 +25,35 @@ enableRobotsTXT: true
 ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$", "Corel Auto-Preserve$"]
 
 menu:
-  main:
+  news:
       - Name: "In The News"
         URL: "/news/"
         Weight: 1
-      - Name: "Outline"
-        URL: "/chapter/"
+      - Name: "Reviews"
+        URL: "/review/"
         Weight: 2
       - Name: "Endorsements"
         URL: "/blurb/"
         weight: 3
+      - Name: "Podcasts"
+        URL: "/podcast/"
+        weight: 4
       - Name: "Blog"
         URL: "/post/"
-        Weight: 4
+        Weight: 5
+  main:
+      - Name: "Outline"
+        URL: "/chapter/"
+        Weight: 1
       - Name: "Actions"
         URL: "/actions/"
-        Weight: 5
+        Weight: 2
       - Name: "Further Reading"
         URL: "/reading/"
-        Weight: 6
+        Weight: 3
       - Name: "About the Authors"
         URL: "/author/"
-        Weight: 7
+        Weight: 4
 permalinks:
   post: /post/:year/:month/:day/:slug
   news: /news/:year/:month/:day/:slug
@@ -65,10 +72,12 @@ params:
   fontawesomeCode: "0cecfe2e0e"
   mathjax: false
   mhchem: false
-  post_count: 1
-  news_count: 2
-  news_current_months: 2
-  news_post_count: 2
+  recent_count: 2
+  recent_item_sections:
+    - "news"
+    - "post"
+    - "review"
+    - "podcast"
   front_page_img: "book_cover.jpg"
   book_avatar: "book_avatar.jpg"
   book_twitter: "beyondgridlock"

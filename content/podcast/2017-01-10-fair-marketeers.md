@@ -2,8 +2,8 @@
 title: "Fair Marketeers Podcast"
 date: '2018-01-10'
 publishdate: '2018-01-10'
-weight: 1
 publication: "Fair Marketeers Podcast"
+weight: 1
 pub_link: "http://fairmarketeers.com/podcast/episode-36-tackling-climate-change-new-ways-professor-michael-vandenbergh/"
 slug: "fair-marketeers"
 categories:
