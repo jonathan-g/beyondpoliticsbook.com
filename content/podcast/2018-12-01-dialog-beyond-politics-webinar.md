@@ -35,7 +35,7 @@ keywords:
   - Carlyle Group
 ---
 
-You can [watch the webinar](https://www.youtube.com/watch?v=xu0_l1-tgvY) on YouTube and download [the transcript](/files/phillips_2018_dialogue_beyond_politics.pdf)
+You can [watch the webinar](https://www.youtube.com/watch?v=xu0_l1-tgvY) on YouTube and download [the transcript](/files/phillips_2018_dialogue_beyond_politics.pdf){target="_blank"}
 
 ## Panelists
 
